@@ -3,4 +3,4 @@ This is a repository for HR related analytics project and visualization
 
 
 
-- [**Employee Churn Prediction**](https://github.com/zz2641/Prediction-Learning-Analytics)<br>
+- [**Data Challenge Employee Churn Prediction R practise**](https://github.com/zz2641/Data-Challenge-Employee-Retention)<br>
